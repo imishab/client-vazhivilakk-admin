@@ -3,7 +3,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 export const adminApi = createApi({
   reducerPath: 'adminApi',
   baseQuery: fetchBaseQuery({
-    baseUrl: 'http://client-vazhivilakk-backend.onrender.com/api/admin',
+    baseUrl: 'https://client-vazhivilakk-backend.onrender.com/api/admin',
     credentials: 'include',
     prepareHeaders: (headers) => {
       const token = localStorage.getItem('token');
