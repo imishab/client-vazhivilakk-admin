@@ -1,0 +1,79 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/[root of the server]__45f43c._.js",
+      "static/chunks/node_modules_next_32b372._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_@reduxjs_toolkit_dist_8ef84d._.js",
+      "static/chunks/node_modules_feather-icons_dist_feather_b45fde.js",
+      "static/chunks/node_modules_926685._.js",
+      "static/chunks/src_styles_globals_473809.css",
+      "static/chunks/src_pages__app_5771e1._.js",
+      "static/chunks/src_pages__app_e880ea._.js"
+    ],
+    "/": [
+      "static/chunks/node_modules_next_71458a._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_beb007._.js",
+      "static/chunks/[root of the server]__b008e1._.js",
+      "static/chunks/src_pages_index_5771e1._.js",
+      "static/chunks/src_pages_index_bfff38._.js"
+    ],
+    "/admin/dashboard": [
+      "static/chunks/[root of the server]__7ab4da._.js",
+      "static/chunks/node_modules_next_dist_f1b02b._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_@reduxjs_toolkit_dist_8ef84d._.js",
+      "static/chunks/node_modules_458b8d._.js",
+      "static/chunks/src_pages_admin_dashboard_jsx_5771e1._.js",
+      "static/chunks/src_pages_admin_dashboard_jsx_62f01b._.js"
+    ],
+    "/admin/category/all-categories": [
+      "static/chunks/node_modules_next_f80f03._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_@reduxjs_toolkit_dist_8ef84d._.js",
+      "static/chunks/node_modules_sweetalert2_dist_sweetalert2_all_07b5f9.js",
+      "static/chunks/node_modules_a8a496._.js",
+      "static/chunks/[root of the server]__d3c27d._.js",
+      "static/chunks/src_pages_admin_category_all-categories_jsx_5771e1._.js",
+      "static/chunks/src_pages_admin_category_all-categories_jsx_6ca869._.js"
+    ],
+    "/admin/category/add-category": [
+      "static/chunks/node_modules_next_32b372._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_@reduxjs_toolkit_dist_8ef84d._.js",
+      "static/chunks/node_modules_4a4f25._.js",
+      "static/chunks/[root of the server]__228b3e._.js",
+      "static/chunks/src_pages_admin_category_add-category_jsx_5771e1._.js",
+      "static/chunks/src_pages_admin_category_add-category_jsx_7c60aa._.js"
+    ],
+    "/admin/signin": [
+      "static/chunks/node_modules_next_71458a._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_@reduxjs_toolkit_dist_8ef84d._.js",
+      "static/chunks/node_modules_a8a496._.js",
+      "static/chunks/[root of the server]__9600f4._.js",
+      "static/chunks/src_pages_admin_signin_jsx_5771e1._.js",
+      "static/chunks/src_pages_admin_signin_jsx_7014ac._.js"
+    ],
+    "/admin/voices/all-voices": [
+      "static/chunks/node_modules_next_32b372._.js",
+      "static/chunks/node_modules_react-dom_82bb97._.js",
+      "static/chunks/node_modules_@reduxjs_toolkit_dist_8ef84d._.js",
+      "static/chunks/node_modules_sweetalert2_dist_sweetalert2_all_07b5f9.js",
+      "static/chunks/node_modules_87e72b._.js",
+      "static/chunks/[root of the server]__a9d89f._.js",
+      "static/chunks/src_pages_admin_voices_all-voices_jsx_5771e1._.js",
+      "static/chunks/src_pages_admin_voices_all-voices_jsx_d6f5ce._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [],
+  "ampFirstPages": []
+}
