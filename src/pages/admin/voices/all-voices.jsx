@@ -104,7 +104,7 @@ export default function allVoices() {
                                 {voice.audio && (
                                   <audio controls className="mt-2">
                                     <source
-                                      src={`http://localhost:4000${voice.audio}`}
+                                      src={`https://client-vazhivilakk-backend.onrender.com${voice.audio}`}
                                       type="audio/mpeg"
                                     />
                                     Your browser does not support the audio

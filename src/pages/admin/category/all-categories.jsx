@@ -97,7 +97,7 @@ export default function AllCategories() {
                             <td>
                               {" "}
                               <img
-                                src={`http://localhost:4000${category.image}`}
+                                src={`https://client-vazhivilakk-backend.onrender.com${category.image}`}
                                 alt={category.title}
                                 style={{
                                   width: "50px",
